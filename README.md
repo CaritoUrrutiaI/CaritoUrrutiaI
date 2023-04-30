@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CaritoUrrutiaI.I am an introverted, minimalist person who likes to enjoy the simple things in life, I love to travel, take pictures and read.
-- 🌱 I’m currently learning Full Start Developed in the 4GeeksAcademy
-- 💞️ I’m looking to collaborate in the development of health and wellness platforms
-- 📫 How to reach me ...write me a email to: carolina.urrutia.iturrieta@gmail.com
+- Hola! 👋 Soy Carolina, una persona minimalista, amante de la naturaleza, los viajes y la lectura.
+- 📚Formación de pregrado "Tecnólogo Médico con especialidad en Otorrinolaringología👂🏻" y postgrado "MBA especialización en Salud 🏥 " y mi entusiasmo por la tecnología me llevó a desarrollarme como Full Stack Developer Software 💻 recientemente
+- 📫 Si quiere contactarte conmigo puedes escribirme un email a: 📝 carolina.urrutia.iturrieta@gmail.com
 
 <!---
 CaritoUrrutiaI/CaritoUrrutiaI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
