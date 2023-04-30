@@ -2,10 +2,12 @@
 - 📚Formación de pregrado "Tecnólogo Médico con especialidad en Otorrinolaringología👂🏻" y postgrado "MBA especialización en Salud 🏥 " y mi entusiasmo por la tecnología me llevó a desarrollarme como Full Stack Developer Software 💻 recientemente
 - 📫 Si quiere contactarte conmigo puedes escribirme un email a: 📝 carolina.urrutia.iturrieta@gmail.com
 
-✅Aptitudes:
-Conocimientos de Front End / Back End
-HTML5 · CSS · JavaScript · React.js · Python · Git · GitHub · Bootstrap · Flask · SQL · REST API
-Scrum · Miro · Figma
+
+
+ ✅Aptitudes:
+- Conocimientos de Front End / Back End
+- HTML5 · CSS · JavaScript · React.js · Python · Git · GitHub · Bootstrap · Flask · SQL · REST API
+- Scrum · Miro · Figma
 
 <!---
 CaritoUrrutiaI/CaritoUrrutiaI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
