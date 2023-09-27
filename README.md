@@ -8,6 +8,7 @@
 - Conocimientos de Front End / Back End
 - HTML5 · CSS · JavaScript · React.js · Python · Git · GitHub · Bootstrap · Flask · SQL · REST API
 - Scrum · Miro · Figma
+- Wordpress
 
 <!---
 CaritoUrrutiaI/CaritoUrrutiaI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
